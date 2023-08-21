@@ -14,6 +14,8 @@
 body {
     background-image: url(./assets/christmasss.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
     height: 100vh;
     display: flex;
     flex-direction: column;
